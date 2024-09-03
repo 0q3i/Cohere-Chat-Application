@@ -6,7 +6,7 @@ The AI can summarize text, understand and perform simple math, rewrite emails, o
 
 # Installation
 
-Require memory-less then 1 MB.
+Required memory-less then 1 MB.
 
 # Modification
 
