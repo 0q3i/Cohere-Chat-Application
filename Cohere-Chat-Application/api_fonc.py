@@ -13,7 +13,7 @@ def chatLLM(chat):
     global history
     
     co = cohere.Client(
-        api_key="Q075U6HmtAeTDJv9K1JkLNXEahiz2RzqP8OGgrKu"
+        api_key="<Your-API-key>"
     )
     
     cohere_chat = co.chat(
